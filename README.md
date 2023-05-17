@@ -23,6 +23,7 @@ Aplicação full stack, usando ReactJS no back-end e NodeJS com Express para o b
 - NodeJS
 - Express
 - JavaScript
+- MySql
 
 ##
 
