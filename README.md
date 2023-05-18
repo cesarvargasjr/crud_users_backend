@@ -31,11 +31,11 @@ Aplicação full stack, usando ReactJS no back-end e NodeJS com Express para o b
 
 Comece pelo banco de dados:
 
-1 - Abra o MySQL Workbench;
-2 - Clique em "File" (Arquivo) no menu superior e escolha 3 - "New Query Tab" (Nova Guia de Consulta);
-4 - Copie o script presente no arquivo "scrip.sql", cole e execute-o;
-5 - Clique no icone de raio;
-6 - Atualize os schemas para visualizar o banco de dados e a tabela de usuários.
+ - Abra o MySQL Workbench;
+ - Clique em "File" (Arquivo) no menu superior e escolha 3 - "New Query Tab" (Nova Guia de Consulta);
+ - Copie o script presente no arquivo "scrip.sql", cole e execute-o;
+ - Clique no icone de raio;
+ - Atualize os schemas para visualizar o banco de dados e a tabela de usuários.
 
 ##
 
