@@ -1,17 +1,16 @@
-CREATE DATABASE `crud_alunos`;
+CREATE DATABASE crud_alunos;
 
-USE `crud_alunos`;
+USE crud_alunos;
 
-CREATE TABLE `alunos` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(80) NOT NULL,
-  `phone` varchar(15) NOT NULL,
-  `address` varchar(50) NOT NULL,
-  `neighborhood` varchar(50) NOT NULL,
-  `city` varchar(50) NOT NULL,
-  `number` int(11) NOT NULL,
-  `cep` varchar(9) NOT NULL,
-  `complement` varchar(50) DEFAULT NULL,
-  `state` varchar(50) NOT NULL,
-  PRIMARY KEY (`id`)
+CREATE TABLE alunos (
+  id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  name VARCHAR(80) NOT NULL,
+  phone VARCHAR(15) NOT NULL,
+  address VARCHAR(50) NOT NULL,
+  neighborhood VARCHAR(50) NOT NULL,
+  city VARCHAR(50) NOT NULL,
+  number INT NOT NULL,
+  cep VARCHAR(9) NOT NULL,
+  complement VARCHAR(50),
+  state VARCHAR(50) NOT NULL
 );
