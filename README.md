@@ -1,4 +1,4 @@
-## Projeto Full Stack - Repositório BACK-END (NodeJS | Express)
+## Projeto Full Stack - Repositório <strong>BACK-END</strong> (NodeJS | Express)
 
 ### Objetivo do desenvolvimento:
 
@@ -23,13 +23,23 @@ Aplicação full stack, usando ReactJS no back-end e NodeJS com Express para o b
 - NodeJS
 - Express
 - JavaScript
-- MySql
+- MySQL
 
 ##
 
 ### Para executar o repositório BACK-END:
 
-Clonar o repositório
+Comece pelo banco de dados:
+
+1 - Abra o MySQL Workbench;
+2 - Clique em "File" (Arquivo) no menu superior e escolha 3 - "New Query Tab" (Nova Guia de Consulta);
+4 - Copie o script presente no arquivo "scrip.sql", cole e execute-o;
+5 - Clique no icone de raio;
+6 - Atualize os schemas para visualizar o banco de dados e a tabela de usuários.
+
+##
+
+Na sequência, faça o clone do repositório
 
 ```bash
 $ git clone https://github.com/cesarvargasjr/crud_users_backend.git
