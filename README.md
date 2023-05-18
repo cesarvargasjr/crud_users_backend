@@ -36,6 +36,13 @@ Comece pelo banco de dados:
  - Copie o script presente no arquivo "scrip.sql", cole e execute-o;
  - Clique no icone de raio;
  - Atualize os schemas para visualizar o banco de dados e a tabela de usuários.
+ - ATENÇÃO! É preciso trocar o password do arquivo "db.js" conforme você definiu em sua máquina. Segue uma imagem abaixo para destacar:
+
+<p align="center">
+ 
+<img width="517" alt="image" src="https://github.com/cesarvargasjr/crud_users_backend/assets/72532360/98e0f9d9-3f96-4aef-8f11-38abd40a6b67">
+ 
+</p>
 
 ##
 
